@@ -49,9 +49,34 @@ Data source is from an open source, kaggle to be precise
 
 
 ### Recommendations 
-- More standard ticket type should be made available amd target audience for ads should be standard users amd early morning commuters to further increase revenue.
-- Factors that contribute to delay on arrival time should be look into , like check-in processto further improve on the arrival performance 
+
+Based on the analysis findings, here are strategic recommendations aimed at improving service delivery, increasing profitability, and enhancing customer satisfaction:
+
+- 1. Optimize Operations Around Manchester Piccadilly
+  - Increase train frequency during peak periods on routes to and from Manchester Piccadilly, as it is the most frequently used station.
+  - Enhance facilities and staffing at Manchester Piccadilly to support high passenger volume, including more automated ticket machines and real-time information boards.
+  - Analyze passenger demographics and trip patterns to introduce personalized services (e.g., loyalty schemes, station-specific promotions).
+  
+
+- 2. Align Scheduling and Resources with Peak Travel Hour (6:45 PM)
+  - Deploy additional trains or longer train units between 6:00 PM and 7:30 PM to manage peak hour demand and reduce overcrowding.
+  - Position more station staff and security during peak hour for better crowd control and customer assistance.
+  - Use the data to adjust staff shifts, cleaning schedules, and platform availability to optimize flow during this time.
+
+  
+- 3. Promote and Enhance Standard Tickets with Advance Booking
+  - Expand marketing campaigns focused on early-bird promotions and discount incentives for advance bookings on standard tickets.
+  - Ensure that online and mobile platforms are user-friendly for advance booking to encourage more passengers to book early.
+  - Offer bundle packages (e.g., travel + meal + lounge access) for standard tickets to enhance value and increase uptake.
+
+
+- 4. Maintain and Improve Punctuality Rate (Currently 86.7%)
+  - Investigate the causes of the 13.3% delays and implement data-backed corrective measures (e.g., signal upgrades, buffer times in scheduling).
+  - Invest in real-time tracking systems for trains to proactively address potential delays and improve communication with passengers.
+  - Establish performance incentives for punctuality at both the crew and operational levels to reinforce timeliness as a core service metric.
+
 
 ### 😀 Thanks for Reading,
+
 
 ### You don't want to miss out on insightful recommendations for your datasets, now let discuss yiur business concern. I am here to make it decision easy making. Let,  now discuss your business concern 
