@@ -21,7 +21,7 @@ Data source is from an open source, kaggle to be precise
 
 ### Tools Used
 
-- PowerBI for bith cleaning amd visualization
+- PowerBI for both cleaning amd visualization
 
 
 ### Expository Data Analysis 
@@ -51,4 +51,6 @@ Data source is from an open source, kaggle to be precise
 ### Recommendations 
 - More standard ticket type should be made available amd target audience for ads should be standard users amd early morning commuters to further increase revenue.
 - Factors that contribute to delay on arrival time should be look into , like check-in processto further improve on the arrival performance 
-- 
+
+: 😀 
+Thanks for Reading, Let now discuss your business concern 
