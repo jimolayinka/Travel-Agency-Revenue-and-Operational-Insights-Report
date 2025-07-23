@@ -52,5 +52,6 @@ Data source is from an open source, kaggle to be precise
 - More standard ticket type should be made available amd target audience for ads should be standard users amd early morning commuters to further increase revenue.
 - Factors that contribute to delay on arrival time should be look into , like check-in processto further improve on the arrival performance 
 
-: 😀 
-Thanks for Reading, Let now discuss your business concern 
+### 😀 Thanks for Reading,
+
+### You don't want to miss out on insightful recommendations for your datasets, now let discuss yiur business concern. I am here to make it decision easy making. Let,  now discuss your business concern 
